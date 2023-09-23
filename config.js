@@ -7,14 +7,14 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['917798203711']
-global.OwnerNumber = ['917798203711']
-global.ownertag = ['917798203711']
-global.Botno1 = ['919971690443']
+global.Owner = ['254112475132']
+global.OwnerNumber = ['254112475132']
+global.ownertag = ['254112475132']
+global.Botno1 = ['254112475132']
 global.BotName = "𓄂⍣⃝🇬𝚑𝚘𝚜𝚝 ×͜×" 
 global.packname = "𓄂⍣⃝🇬𝚑𝚘𝚜𝚝 ×͜×"
-global.author = "By:shubham"
-global.OwnerName = "shubham"
+global.author = "By:Phylo"
+global.OwnerName = "Phylo"
 global.myweb = "https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"
 global.BotSourceCode = "dm to ownwr"
 global.SupportGroupLink = "https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"
